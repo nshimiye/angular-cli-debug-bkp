@@ -14,6 +14,26 @@
       "sourceRoot": "src",
       "prefix": "app",
       "architect": {
+        "build-am": {
+          "builder": "./am-builder:browser",
+          "options": {
+            "outputPath": "dist/mytestapp",
+            "index": "src/index.html",
+            "main": "src/main.ts",
+            "polyfills": "src/polyfills.ts",
+            "tsConfig": "tsconfig.app.json",
+            "aot": true,
+            "statsJson": true,
+            "assets": [
+              "src/favicon.ico",
+              "src/assets"
+            ],
+            "styles": [
+              "src/styles.scss"
+            ],
+            "scripts": []
+          }
+        },
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {

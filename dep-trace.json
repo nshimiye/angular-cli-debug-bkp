@@ -1,0 +1,65 @@
+[
+    {
+        "level": 0,
+        "module": "Controller",
+        "parents": [
+            "@supertype"
+        ],
+        "mappings": {
+            "./Controller": "@supertype"
+        }
+    },
+    {
+        "level": 1,
+        "module": "@supertype",
+        "parents": [
+            "./app/app.module",
+            "./app.component"
+        ]
+    },
+    {
+        "level": 2,
+        "module": "./app/app.module",
+        "parents": [
+            "C:\\Users\\nmarc\\profession\\general\\tutorial\\language-specific\\typescript\\angular\\mytestapp\\src\\main.ts"
+        ]
+    },
+    {
+        "level": 3,
+        "module": "C:\\Users\\nmarc\\profession\\general\\tutorial\\language-specific\\typescript\\angular\\mytestapp\\src\\main.ts",
+        "parents": [
+            "main"
+        ]
+    },
+    {
+        "level": 4,
+        "module": "main",
+        "parents": []
+    },
+    {
+        "level": 2,
+        "module": "./app.component",
+        "parents": [
+            "./app/app.module"
+        ]
+    },
+    {
+        "level": 3,
+        "module": "./app/app.module",
+        "parents": [
+            "C:\\Users\\nmarc\\profession\\general\\tutorial\\language-specific\\typescript\\angular\\mytestapp\\src\\main.ts"
+        ]
+    },
+    {
+        "level": 4,
+        "module": "C:\\Users\\nmarc\\profession\\general\\tutorial\\language-specific\\typescript\\angular\\mytestapp\\src\\main.ts",
+        "parents": [
+            "main"
+        ]
+    },
+    {
+        "level": 5,
+        "module": "main",
+        "parents": []
+    }
+]

@@ -1,3 +1,5 @@
+// import { Controller } from '../controllers/Controller';
+import { Controller } from '@supertype';
 import { Component } from '@angular/core';
 
 @Component({
@@ -7,4 +9,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'mytestapp';
+  a: Controller
+  // ba:number ='hi';
 }

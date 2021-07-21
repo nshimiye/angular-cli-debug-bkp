@@ -2,12 +2,19 @@
   "compileOnSave": false,
   "compilerOptions": {
     "baseUrl": "./",
+    "paths": {
+      "@supertype": [
+        "ctll/out-tsc/index.d.ts",
+        // "src/controllers/index.ts"
+      ],
+    },
     "outDir": "./dist/out-tsc",
     "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
     "experimentalDecorators": true,
-    "module": "esnext",
+    "emitDecoratorMetadata": true,
+    "module": "commonjs",
     "moduleResolution": "node",
     "importHelpers": true,
     "target": "es2015",
@@ -19,8 +26,16 @@
       "dom"
     ]
   },
+  // "files": [
+  //   "./src/app/app.component.ts"
+  // ],
   "angularCompilerOptions": {
+    "disableExpressionLowering":false,
     "fullTemplateTypeCheck": true,
-    "strictInjectionParameters": true
+    "strictInjectionParameters": true,
+    // "strictMetadataEmit": true,
+    "enableIvy":true,
+    // "forkTypeChecker": false,
+    // "directTemplateLoading": false
   }
 }

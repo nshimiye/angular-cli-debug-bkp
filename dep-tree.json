@@ -1,0 +1,3860 @@
+[
+    {
+        "name": "main",
+        "dep": [
+            "C:\\Users\\nmarc\\profession\\general\\tutorial\\language-specific\\typescript\\angular\\mytestapp\\src\\main.ts"
+        ]
+    },
+    {
+        "name": "polyfills",
+        "dep": [
+            "C:\\Users\\nmarc\\profession\\general\\tutorial\\language-specific\\typescript\\angular\\mytestapp\\node_modules\\@angular-devkit\\build-angular\\src\\angular-cli-files\\models\\es5-polyfills.js",
+            "C:\\Users\\nmarc\\profession\\general\\tutorial\\language-specific\\typescript\\angular\\mytestapp\\src\\polyfills.ts"
+        ]
+    },
+    {
+        "name": "styles",
+        "dep": [
+            "C:\\Users\\nmarc\\profession\\general\\tutorial\\language-specific\\typescript\\angular\\mytestapp\\src\\styles.scss"
+        ]
+    },
+    {
+        "name": "C:\\Users\\nmarc\\profession\\general\\tutorial\\language-specific\\typescript\\angular\\mytestapp\\node_modules\\@angular-devkit\\build-angular\\src\\angular-cli-files\\models\\es5-polyfills.js",
+        "dep": [
+            "core-js/modules/es.symbol",
+            "core-js/modules/es.symbol.iterator",
+            "core-js/modules/es.function.bind",
+            "core-js/modules/es.function.name",
+            "core-js/modules/es.function.has-instance",
+            "core-js/modules/es.object.create",
+            "core-js/modules/es.object.define-property",
+            "core-js/modules/es.object.define-properties",
+            "core-js/modules/es.object.get-own-property-descriptor",
+            "core-js/modules/es.object.get-prototype-of",
+            "core-js/modules/es.object.keys",
+            "core-js/modules/es.object.get-own-property-names",
+            "core-js/modules/es.object.freeze",
+            "core-js/modules/es.object.seal",
+            "core-js/modules/es.object.prevent-extensions",
+            "core-js/modules/es.object.is-frozen",
+            "core-js/modules/es.object.is-sealed",
+            "core-js/modules/es.object.is-extensible",
+            "core-js/modules/es.object.assign",
+            "core-js/modules/es.object.is",
+            "core-js/modules/es.object.set-prototype-of",
+            "core-js/modules/es.object.to-string",
+            "core-js/modules/es.array.is-array",
+            "core-js/modules/es.array.from",
+            "core-js/modules/es.array.of",
+            "core-js/modules/es.array.join",
+            "core-js/modules/es.array.slice",
+            "core-js/modules/es.array.sort",
+            "core-js/modules/es.array.for-each",
+            "core-js/modules/es.array.map",
+            "core-js/modules/es.array.filter",
+            "core-js/modules/es.array.some",
+            "core-js/modules/es.array.every",
+            "core-js/modules/es.array.reduce",
+            "core-js/modules/es.array.reduce-right",
+            "core-js/modules/es.array.index-of",
+            "core-js/modules/es.array.last-index-of",
+            "core-js/modules/es.array.copy-within",
+            "core-js/modules/es.array.fill",
+            "core-js/modules/es.array.find",
+            "core-js/modules/es.array.find-index",
+            "core-js/modules/es.array.iterator",
+            "core-js/modules/es.string.from-code-point",
+            "core-js/modules/es.string.raw",
+            "core-js/modules/es.string.trim",
+            "core-js/modules/es.string.iterator",
+            "core-js/modules/es.string.code-point-at",
+            "core-js/modules/es.string.ends-with",
+            "core-js/modules/es.string.includes",
+            "core-js/modules/es.string.repeat",
+            "core-js/modules/es.string.starts-with",
+            "core-js/modules/es.string.anchor",
+            "core-js/modules/es.string.big",
+            "core-js/modules/es.string.blink",
+            "core-js/modules/es.string.bold",
+            "core-js/modules/es.string.fixed",
+            "core-js/modules/es.string.fontcolor",
+            "core-js/modules/es.string.fontsize",
+            "core-js/modules/es.string.italics",
+            "core-js/modules/es.string.link",
+            "core-js/modules/es.string.small",
+            "core-js/modules/es.string.strike",
+            "core-js/modules/es.string.sub",
+            "core-js/modules/es.string.sup",
+            "core-js/modules/es.parse-int",
+            "core-js/modules/es.parse-float",
+            "core-js/es/number",
+            "core-js/es/math",
+            "core-js/es/date",
+            "core-js/es/regexp",
+            "core-js/modules/es.map",
+            "core-js/modules/es.weak-map",
+            "core-js/modules/es.set",
+            "core-js/modules/web.dom-collections.iterator",
+            "core-js/modules/es.promise"
+        ]
+    },
+    {
+        "name": "C:\\Users\\nmarc\\profession\\general\\tutorial\\language-specific\\typescript\\angular\\mytestapp\\src\\styles.scss",
+        "dep": [
+            "!!../node_modules/@angular-devkit/build-angular/src/angular-cli-files/plugins/raw-css-loader.js!../node_modules/postcss-loader/src/index.js??embedded!../node_modules/sass-loader/lib/loader.js??ref--15-3!./styles.scss",
+            "!../node_modules/style-loader/lib/addStyles.js"
+        ]
+    },
+    {
+        "name": "!!../node_modules/@angular-devkit/build-angular/src/angular-cli-files/plugins/raw-css-loader.js!../node_modules/postcss-loader/src/index.js??embedded!../node_modules/sass-loader/lib/loader.js??ref--15-3!./styles.scss",
+        "dep": []
+    },
+    {
+        "name": "!../node_modules/style-loader/lib/addStyles.js",
+        "dep": [
+            "./urls"
+        ]
+    },
+    {
+        "name": "C:\\Users\\nmarc\\profession\\general\\tutorial\\language-specific\\typescript\\angular\\mytestapp\\src\\polyfills.ts",
+        "dep": [
+            "zone.js/dist/zone"
+        ]
+    },
+    {
+        "name": "C:\\Users\\nmarc\\profession\\general\\tutorial\\language-specific\\typescript\\angular\\mytestapp\\src\\main.ts",
+        "dep": [
+            "@angular/core",
+            "./environments/environment",
+            "./app/app.module",
+            "@angular/platform-browser"
+        ]
+    },
+    {
+        "name": "./urls",
+        "dep": []
+    },
+    {
+        "name": "./app/app.module",
+        "dep": [
+            "@supertype",
+            "@angular/platform-browser",
+            "@angular/core",
+            "./app-routing.module",
+            "./app.component",
+            "../../common/cp-icon/cp-icon/cp-icon.module"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.symbol",
+        "dep": [
+            "../internals/export",
+            "../internals/global",
+            "../internals/is-pure",
+            "../internals/descriptors",
+            "../internals/native-symbol",
+            "../internals/fails",
+            "../internals/has",
+            "../internals/is-array",
+            "../internals/is-object",
+            "../internals/an-object",
+            "../internals/to-object",
+            "../internals/to-indexed-object",
+            "../internals/to-primitive",
+            "../internals/create-property-descriptor",
+            "../internals/object-create",
+            "../internals/object-keys",
+            "../internals/object-get-own-property-names",
+            "../internals/object-get-own-property-names-external",
+            "../internals/object-get-own-property-symbols",
+            "../internals/object-get-own-property-descriptor",
+            "../internals/object-define-property",
+            "../internals/object-property-is-enumerable",
+            "../internals/hide",
+            "../internals/redefine",
+            "../internals/shared",
+            "../internals/shared-key",
+            "../internals/hidden-keys",
+            "../internals/uid",
+            "../internals/well-known-symbol",
+            "../internals/wrapped-well-known-symbol",
+            "../internals/define-well-known-symbol",
+            "../internals/set-to-string-tag",
+            "../internals/internal-state",
+            "../internals/array-iteration"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.symbol.iterator",
+        "dep": [
+            "../internals/define-well-known-symbol"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.function.name",
+        "dep": [
+            "../internals/descriptors",
+            "../internals/object-define-property"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.function.bind",
+        "dep": [
+            "../internals/export",
+            "../internals/function-bind"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.function.has-instance",
+        "dep": [
+            "../internals/is-object",
+            "../internals/object-define-property",
+            "../internals/object-get-prototype-of",
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.create",
+        "dep": [
+            "../internals/export",
+            "../internals/descriptors",
+            "../internals/object-create"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.define-property",
+        "dep": [
+            "../internals/export",
+            "../internals/descriptors",
+            "../internals/object-define-property"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.define-properties",
+        "dep": [
+            "../internals/export",
+            "../internals/descriptors",
+            "../internals/object-define-properties"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.get-own-property-descriptor",
+        "dep": [
+            "../internals/export",
+            "../internals/fails",
+            "../internals/to-indexed-object",
+            "../internals/object-get-own-property-descriptor",
+            "../internals/descriptors"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.get-prototype-of",
+        "dep": [
+            "../internals/export",
+            "../internals/fails",
+            "../internals/to-object",
+            "../internals/object-get-prototype-of",
+            "../internals/correct-prototype-getter"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.keys",
+        "dep": [
+            "../internals/export",
+            "../internals/to-object",
+            "../internals/object-keys",
+            "../internals/fails"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.get-own-property-names",
+        "dep": [
+            "../internals/export",
+            "../internals/fails",
+            "../internals/object-get-own-property-names-external"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.freeze",
+        "dep": [
+            "../internals/export",
+            "../internals/freezing",
+            "../internals/fails",
+            "../internals/is-object",
+            "../internals/internal-metadata"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.seal",
+        "dep": [
+            "../internals/export",
+            "../internals/is-object",
+            "../internals/internal-metadata",
+            "../internals/freezing",
+            "../internals/fails"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.prevent-extensions",
+        "dep": [
+            "../internals/export",
+            "../internals/is-object",
+            "../internals/internal-metadata",
+            "../internals/freezing",
+            "../internals/fails"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.is-frozen",
+        "dep": [
+            "../internals/export",
+            "../internals/fails",
+            "../internals/is-object"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.is-sealed",
+        "dep": [
+            "../internals/export",
+            "../internals/fails",
+            "../internals/is-object"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.is-extensible",
+        "dep": [
+            "../internals/export",
+            "../internals/fails",
+            "../internals/is-object"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.assign",
+        "dep": [
+            "../internals/export",
+            "../internals/object-assign"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.is",
+        "dep": [
+            "../internals/export",
+            "../internals/same-value"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.set-prototype-of",
+        "dep": [
+            "../internals/export",
+            "../internals/object-set-prototype-of"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.object.to-string",
+        "dep": [
+            "../internals/redefine",
+            "../internals/object-to-string"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.is-array",
+        "dep": [
+            "../internals/export",
+            "../internals/is-array"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.from",
+        "dep": [
+            "../internals/export",
+            "../internals/array-from",
+            "../internals/check-correctness-of-iteration"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.of",
+        "dep": [
+            "../internals/export",
+            "../internals/fails",
+            "../internals/create-property"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.join",
+        "dep": [
+            "../internals/export",
+            "../internals/indexed-object",
+            "../internals/to-indexed-object",
+            "../internals/sloppy-array-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.slice",
+        "dep": [
+            "../internals/export",
+            "../internals/is-object",
+            "../internals/is-array",
+            "../internals/to-absolute-index",
+            "../internals/to-length",
+            "../internals/to-indexed-object",
+            "../internals/create-property",
+            "../internals/array-method-has-species-support",
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.sort",
+        "dep": [
+            "../internals/export",
+            "../internals/a-function",
+            "../internals/to-object",
+            "../internals/fails",
+            "../internals/sloppy-array-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.for-each",
+        "dep": [
+            "../internals/export",
+            "../internals/array-for-each"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.map",
+        "dep": [
+            "../internals/export",
+            "../internals/array-iteration",
+            "../internals/array-method-has-species-support"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.filter",
+        "dep": [
+            "../internals/export",
+            "../internals/array-iteration",
+            "../internals/array-method-has-species-support"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.some",
+        "dep": [
+            "../internals/export",
+            "../internals/array-iteration",
+            "../internals/sloppy-array-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.every",
+        "dep": [
+            "../internals/export",
+            "../internals/array-iteration",
+            "../internals/sloppy-array-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.reduce",
+        "dep": [
+            "../internals/export",
+            "../internals/array-reduce",
+            "../internals/sloppy-array-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.reduce-right",
+        "dep": [
+            "../internals/export",
+            "../internals/array-reduce",
+            "../internals/sloppy-array-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.index-of",
+        "dep": [
+            "../internals/export",
+            "../internals/array-includes",
+            "../internals/sloppy-array-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.last-index-of",
+        "dep": [
+            "../internals/export",
+            "../internals/array-last-index-of"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.copy-within",
+        "dep": [
+            "../internals/export",
+            "../internals/array-copy-within",
+            "../internals/add-to-unscopables"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.fill",
+        "dep": [
+            "../internals/export",
+            "../internals/array-fill",
+            "../internals/add-to-unscopables"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.find",
+        "dep": [
+            "../internals/export",
+            "../internals/array-iteration",
+            "../internals/add-to-unscopables"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.find-index",
+        "dep": [
+            "../internals/export",
+            "../internals/array-iteration",
+            "../internals/add-to-unscopables"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.array.iterator",
+        "dep": [
+            "../internals/to-indexed-object",
+            "../internals/add-to-unscopables",
+            "../internals/iterators",
+            "../internals/internal-state",
+            "../internals/define-iterator"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.from-code-point",
+        "dep": [
+            "../internals/export",
+            "../internals/to-absolute-index"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.raw",
+        "dep": [
+            "../internals/export",
+            "../internals/to-indexed-object",
+            "../internals/to-length"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.trim",
+        "dep": [
+            "../internals/export",
+            "../internals/string-trim",
+            "../internals/forced-string-trim-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.iterator",
+        "dep": [
+            "../internals/string-multibyte",
+            "../internals/internal-state",
+            "../internals/define-iterator"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.code-point-at",
+        "dep": [
+            "../internals/export",
+            "../internals/string-multibyte"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.ends-with",
+        "dep": [
+            "../internals/export",
+            "../internals/to-length",
+            "../internals/not-a-regexp",
+            "../internals/require-object-coercible",
+            "../internals/correct-is-regexp-logic"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.includes",
+        "dep": [
+            "../internals/export",
+            "../internals/not-a-regexp",
+            "../internals/require-object-coercible",
+            "../internals/correct-is-regexp-logic"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.repeat",
+        "dep": [
+            "../internals/export",
+            "../internals/string-repeat"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.starts-with",
+        "dep": [
+            "../internals/export",
+            "../internals/to-length",
+            "../internals/not-a-regexp",
+            "../internals/require-object-coercible",
+            "../internals/correct-is-regexp-logic"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.anchor",
+        "dep": [
+            "../internals/export",
+            "../internals/create-html",
+            "../internals/forced-string-html-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.big",
+        "dep": [
+            "../internals/export",
+            "../internals/create-html",
+            "../internals/forced-string-html-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.blink",
+        "dep": [
+            "../internals/export",
+            "../internals/create-html",
+            "../internals/forced-string-html-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.bold",
+        "dep": [
+            "../internals/export",
+            "../internals/create-html",
+            "../internals/forced-string-html-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.fixed",
+        "dep": [
+            "../internals/export",
+            "../internals/create-html",
+            "../internals/forced-string-html-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.fontcolor",
+        "dep": [
+            "../internals/export",
+            "../internals/create-html",
+            "../internals/forced-string-html-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.fontsize",
+        "dep": [
+            "../internals/export",
+            "../internals/create-html",
+            "../internals/forced-string-html-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.italics",
+        "dep": [
+            "../internals/export",
+            "../internals/create-html",
+            "../internals/forced-string-html-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.link",
+        "dep": [
+            "../internals/export",
+            "../internals/create-html",
+            "../internals/forced-string-html-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.small",
+        "dep": [
+            "../internals/export",
+            "../internals/create-html",
+            "../internals/forced-string-html-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.strike",
+        "dep": [
+            "../internals/export",
+            "../internals/create-html",
+            "../internals/forced-string-html-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.sub",
+        "dep": [
+            "../internals/export",
+            "../internals/create-html",
+            "../internals/forced-string-html-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.string.sup",
+        "dep": [
+            "../internals/export",
+            "../internals/create-html",
+            "../internals/forced-string-html-method"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.parse-int",
+        "dep": [
+            "../internals/export",
+            "../internals/parse-int"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.parse-float",
+        "dep": [
+            "../internals/export",
+            "../internals/parse-float"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.map",
+        "dep": [
+            "../internals/collection",
+            "../internals/collection-strong"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.weak-map",
+        "dep": [
+            "../internals/global",
+            "../internals/redefine-all",
+            "../internals/internal-metadata",
+            "../internals/collection",
+            "../internals/collection-weak",
+            "../internals/is-object",
+            "../internals/internal-state",
+            "../internals/native-weak-map"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.set",
+        "dep": [
+            "../internals/collection",
+            "../internals/collection-strong"
+        ]
+    },
+    {
+        "name": "core-js/modules/web.dom-collections.iterator",
+        "dep": [
+            "../internals/global",
+            "../internals/dom-iterables",
+            "core-js/modules/es.array.iterator",
+            "../internals/hide",
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "core-js/modules/es.promise",
+        "dep": [
+            "../internals/export",
+            "../internals/is-pure",
+            "../internals/global",
+            "../../internals/path",
+            "../internals/redefine-all",
+            "../internals/set-to-string-tag",
+            "../internals/set-species",
+            "../internals/is-object",
+            "../internals/a-function",
+            "../internals/an-instance",
+            "../internals/classof-raw",
+            "../internals/iterate",
+            "../internals/check-correctness-of-iteration",
+            "../internals/species-constructor",
+            "../internals/task",
+            "../internals/microtask",
+            "../internals/promise-resolve",
+            "../internals/host-report-errors",
+            "../internals/new-promise-capability",
+            "../internals/perform",
+            "../internals/user-agent",
+            "../internals/internal-state",
+            "../internals/is-forced",
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "./environments/environment",
+        "dep": []
+    },
+    {
+        "name": "./app-routing.module",
+        "dep": [
+            "@angular/core",
+            "@angular/router"
+        ]
+    },
+    {
+        "name": "../../common/cp-icon/cp-icon/cp-icon.module",
+        "dep": [
+            "./cp-icon.component",
+            "@angular/core",
+            "@angular/common"
+        ]
+    },
+    {
+        "name": "./app.component",
+        "dep": [
+            "@supertype",
+            "@angular/core",
+            "@angular/router"
+        ]
+    },
+    {
+        "name": "@supertype",
+        "dep": [
+            "tslib",
+            "./Controller"
+        ]
+    },
+    {
+        "name": "./cp-icon.component",
+        "dep": [
+            "@angular/core"
+        ]
+    },
+    {
+        "name": "core-js/es/number",
+        "dep": [
+            "../../modules/es.number.constructor",
+            "../../modules/es.number.epsilon",
+            "../../modules/es.number.is-finite",
+            "../../modules/es.number.is-integer",
+            "../../modules/es.number.is-nan",
+            "../../modules/es.number.is-safe-integer",
+            "../../modules/es.number.max-safe-integer",
+            "../../modules/es.number.min-safe-integer",
+            "../../modules/es.number.parse-float",
+            "../../modules/es.number.parse-int",
+            "../../modules/es.number.to-fixed",
+            "../../modules/es.number.to-precision",
+            "../../internals/path"
+        ]
+    },
+    {
+        "name": "core-js/es/math",
+        "dep": [
+            "../../modules/es.math.acosh",
+            "../../modules/es.math.asinh",
+            "../../modules/es.math.atanh",
+            "../../modules/es.math.cbrt",
+            "../../modules/es.math.clz32",
+            "../../modules/es.math.cosh",
+            "../../modules/es.math.expm1",
+            "../../modules/es.math.fround",
+            "../../modules/es.math.hypot",
+            "../../modules/es.math.imul",
+            "../../modules/es.math.log10",
+            "../../modules/es.math.log1p",
+            "../../modules/es.math.log2",
+            "../../modules/es.math.sign",
+            "../../modules/es.math.sinh",
+            "../../modules/es.math.tanh",
+            "../../modules/es.math.to-string-tag",
+            "../../modules/es.math.trunc",
+            "../../internals/path"
+        ]
+    },
+    {
+        "name": "core-js/es/date",
+        "dep": [
+            "../../modules/es.date.now",
+            "../../modules/es.date.to-json",
+            "../../modules/es.date.to-iso-string",
+            "../../modules/es.date.to-string",
+            "../../modules/es.date.to-primitive",
+            "../../internals/path"
+        ]
+    },
+    {
+        "name": "core-js/es/regexp",
+        "dep": [
+            "../../modules/es.regexp.constructor",
+            "../../modules/es.regexp.to-string",
+            "../../modules/es.regexp.exec",
+            "../../modules/es.regexp.flags",
+            "../../modules/es.string.match",
+            "../../modules/es.string.replace",
+            "../../modules/es.string.search",
+            "../../modules/es.string.split"
+        ]
+    },
+    {
+        "name": "../internals/export",
+        "dep": [
+            "../internals/global",
+            "../internals/object-get-own-property-descriptor",
+            "../internals/hide",
+            "../internals/redefine",
+            "../internals/set-global",
+            "../internals/copy-constructor-properties",
+            "../internals/is-forced"
+        ]
+    },
+    {
+        "name": "../internals/global",
+        "dep": []
+    },
+    {
+        "name": "../internals/is-pure",
+        "dep": []
+    },
+    {
+        "name": "../internals/descriptors",
+        "dep": [
+            "../internals/fails"
+        ]
+    },
+    {
+        "name": "../internals/native-symbol",
+        "dep": [
+            "../internals/fails"
+        ]
+    },
+    {
+        "name": "../internals/fails",
+        "dep": []
+    },
+    {
+        "name": "../internals/has",
+        "dep": []
+    },
+    {
+        "name": "../internals/is-array",
+        "dep": [
+            "../internals/classof-raw"
+        ]
+    },
+    {
+        "name": "../internals/is-object",
+        "dep": []
+    },
+    {
+        "name": "../internals/an-object",
+        "dep": [
+            "../internals/is-object"
+        ]
+    },
+    {
+        "name": "../internals/to-object",
+        "dep": [
+            "../internals/require-object-coercible"
+        ]
+    },
+    {
+        "name": "../internals/to-indexed-object",
+        "dep": [
+            "../internals/indexed-object",
+            "../internals/require-object-coercible"
+        ]
+    },
+    {
+        "name": "../internals/to-primitive",
+        "dep": [
+            "../internals/is-object"
+        ]
+    },
+    {
+        "name": "../internals/create-property-descriptor",
+        "dep": []
+    },
+    {
+        "name": "../internals/object-create",
+        "dep": [
+            "../internals/an-object",
+            "../internals/object-define-properties",
+            "../internals/enum-bug-keys",
+            "../internals/hidden-keys",
+            "../internals/html",
+            "../internals/document-create-element",
+            "../internals/shared-key"
+        ]
+    },
+    {
+        "name": "../internals/object-keys",
+        "dep": [
+            "../internals/object-keys-internal",
+            "../internals/enum-bug-keys"
+        ]
+    },
+    {
+        "name": "../internals/define-well-known-symbol",
+        "dep": [
+            "../../internals/path",
+            "../internals/has",
+            "../internals/wrapped-well-known-symbol",
+            "../internals/object-define-property"
+        ]
+    },
+    {
+        "name": "../internals/redefine",
+        "dep": [
+            "../internals/global",
+            "../internals/shared",
+            "../internals/hide",
+            "../internals/has",
+            "../internals/set-global",
+            "../internals/function-to-string",
+            "../internals/internal-state"
+        ]
+    },
+    {
+        "name": "../internals/string-multibyte",
+        "dep": [
+            "../internals/to-integer",
+            "../internals/require-object-coercible"
+        ]
+    },
+    {
+        "name": "../internals/collection",
+        "dep": [
+            "../internals/export",
+            "../internals/global",
+            "../internals/is-forced",
+            "../internals/redefine",
+            "../internals/internal-metadata",
+            "../internals/iterate",
+            "../internals/an-instance",
+            "../internals/is-object",
+            "../internals/fails",
+            "../internals/check-correctness-of-iteration",
+            "../internals/set-to-string-tag",
+            "../internals/inherit-if-required"
+        ]
+    },
+    {
+        "name": "../internals/well-known-symbol",
+        "dep": [
+            "../internals/global",
+            "../internals/shared",
+            "../internals/uid",
+            "../internals/native-symbol"
+        ]
+    },
+    {
+        "name": "./Controller",
+        "dep": [
+            "tslib"
+        ]
+    },
+    {
+        "name": "zone.js/dist/zone",
+        "dep": []
+    },
+    {
+        "name": "../../modules/es.number.constructor",
+        "dep": [
+            "../internals/descriptors",
+            "../internals/global",
+            "../internals/is-forced",
+            "../internals/redefine",
+            "../internals/has",
+            "../internals/classof-raw",
+            "../internals/inherit-if-required",
+            "../internals/to-primitive",
+            "../internals/fails",
+            "../internals/object-create",
+            "../internals/object-get-own-property-names",
+            "../internals/object-get-own-property-descriptor",
+            "../internals/object-define-property",
+            "../internals/string-trim"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.acosh",
+        "dep": [
+            "../internals/export",
+            "../internals/math-log1p"
+        ]
+    },
+    {
+        "name": "../../modules/es.date.now",
+        "dep": [
+            "../internals/export"
+        ]
+    },
+    {
+        "name": "../../modules/es.regexp.constructor",
+        "dep": [
+            "../internals/descriptors",
+            "../internals/global",
+            "../internals/is-forced",
+            "../internals/inherit-if-required",
+            "../internals/object-define-property",
+            "../internals/object-get-own-property-names",
+            "../internals/is-regexp",
+            "../internals/regexp-flags",
+            "../internals/redefine",
+            "../internals/fails",
+            "../internals/set-species",
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "@angular/core",
+        "dep": [
+            "tslib",
+            "rxjs",
+            "rxjs/operators"
+        ]
+    },
+    {
+        "dep": []
+    },
+    {
+        "name": "@angular/platform-browser",
+        "dep": [
+            "tslib",
+            "@angular/common",
+            "@angular/core"
+        ]
+    },
+    {
+        "name": "../internals/is-forced",
+        "dep": [
+            "../internals/fails"
+        ]
+    },
+    {
+        "name": "../internals/copy-constructor-properties",
+        "dep": [
+            "../internals/has",
+            "../internals/own-keys",
+            "../internals/object-get-own-property-descriptor",
+            "../internals/object-define-property"
+        ]
+    },
+    {
+        "name": "../internals/set-global",
+        "dep": [
+            "../internals/global",
+            "../internals/hide"
+        ]
+    },
+    {
+        "name": "../internals/hide",
+        "dep": [
+            "../internals/descriptors",
+            "../internals/object-define-property",
+            "../internals/create-property-descriptor"
+        ]
+    },
+    {
+        "name": "../internals/object-get-own-property-descriptor",
+        "dep": [
+            "../internals/descriptors",
+            "../internals/object-property-is-enumerable",
+            "../internals/create-property-descriptor",
+            "../internals/to-indexed-object",
+            "../internals/to-primitive",
+            "../internals/has",
+            "../internals/ie8-dom-define"
+        ]
+    },
+    {
+        "name": "../internals/internal-state",
+        "dep": [
+            "../internals/native-weak-map",
+            "../internals/global",
+            "../internals/is-object",
+            "../internals/hide",
+            "../internals/has",
+            "../internals/shared-key",
+            "../internals/hidden-keys"
+        ]
+    },
+    {
+        "name": "../internals/user-agent",
+        "dep": [
+            "../internals/get-built-in"
+        ]
+    },
+    {
+        "name": "../internals/perform",
+        "dep": []
+    },
+    {
+        "name": "../internals/new-promise-capability",
+        "dep": [
+            "../internals/a-function"
+        ]
+    },
+    {
+        "name": "../internals/host-report-errors",
+        "dep": [
+            "../internals/global"
+        ]
+    },
+    {
+        "name": "../../modules/es.string.split",
+        "dep": [
+            "../internals/fix-regexp-well-known-symbol-logic",
+            "../internals/is-regexp",
+            "../internals/an-object",
+            "../internals/require-object-coercible",
+            "../internals/species-constructor",
+            "../internals/advance-string-index",
+            "../internals/to-length",
+            "../internals/regexp-exec-abstract",
+            "../internals/regexp-exec",
+            "../internals/fails"
+        ]
+    },
+    {
+        "name": "../internals/promise-resolve",
+        "dep": [
+            "../internals/an-object",
+            "../internals/is-object",
+            "../internals/new-promise-capability"
+        ]
+    },
+    {
+        "name": "../../modules/es.string.search",
+        "dep": [
+            "../internals/fix-regexp-well-known-symbol-logic",
+            "../internals/an-object",
+            "../internals/require-object-coercible",
+            "../internals/same-value",
+            "../internals/regexp-exec-abstract"
+        ]
+    },
+    {
+        "name": "../../modules/es.string.replace",
+        "dep": [
+            "../internals/fix-regexp-well-known-symbol-logic",
+            "../internals/an-object",
+            "../internals/to-object",
+            "../internals/to-length",
+            "../internals/to-integer",
+            "../internals/require-object-coercible",
+            "../internals/advance-string-index",
+            "../internals/regexp-exec-abstract"
+        ]
+    },
+    {
+        "name": "../../modules/es.string.match",
+        "dep": [
+            "../internals/fix-regexp-well-known-symbol-logic",
+            "../internals/an-object",
+            "../internals/to-length",
+            "../internals/require-object-coercible",
+            "../internals/advance-string-index",
+            "../internals/regexp-exec-abstract"
+        ]
+    },
+    {
+        "name": "../../modules/es.regexp.flags",
+        "dep": [
+            "../internals/descriptors",
+            "../internals/object-define-property",
+            "../internals/regexp-flags"
+        ]
+    },
+    {
+        "name": "../../modules/es.regexp.exec",
+        "dep": [
+            "../internals/export",
+            "../internals/regexp-exec"
+        ]
+    },
+    {
+        "name": "../../internals/path",
+        "dep": [
+            "../internals/global"
+        ]
+    },
+    {
+        "name": "../../modules/es.regexp.to-string",
+        "dep": [
+            "../internals/redefine",
+            "../internals/an-object",
+            "../internals/fails",
+            "../internals/regexp-flags"
+        ]
+    },
+    {
+        "name": "../../modules/es.date.to-primitive",
+        "dep": [
+            "../internals/hide",
+            "../internals/date-to-primitive",
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "../../modules/es.date.to-string",
+        "dep": [
+            "../internals/redefine"
+        ]
+    },
+    {
+        "name": "../../modules/es.date.to-iso-string",
+        "dep": [
+            "../internals/export",
+            "../internals/date-to-iso-string"
+        ]
+    },
+    {
+        "name": "../../modules/es.date.to-json",
+        "dep": [
+            "../internals/export",
+            "../internals/fails",
+            "../internals/to-object",
+            "../internals/to-primitive"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.trunc",
+        "dep": [
+            "../internals/export"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.to-string-tag",
+        "dep": [
+            "../internals/set-to-string-tag"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.tanh",
+        "dep": [
+            "../internals/export",
+            "../internals/math-expm1"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.sinh",
+        "dep": [
+            "../internals/export",
+            "../internals/fails",
+            "../internals/math-expm1"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.sign",
+        "dep": [
+            "../internals/export",
+            "../internals/math-sign"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.log2",
+        "dep": [
+            "../internals/export"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.log1p",
+        "dep": [
+            "../internals/export",
+            "../internals/math-log1p"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.log10",
+        "dep": [
+            "../internals/export"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.imul",
+        "dep": [
+            "../internals/export",
+            "../internals/fails"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.hypot",
+        "dep": [
+            "../internals/export"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.fround",
+        "dep": [
+            "../internals/export",
+            "../internals/math-fround"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.expm1",
+        "dep": [
+            "../internals/export",
+            "../internals/math-expm1"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.cosh",
+        "dep": [
+            "../internals/export",
+            "../internals/math-expm1"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.clz32",
+        "dep": [
+            "../internals/export"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.cbrt",
+        "dep": [
+            "../internals/export",
+            "../internals/math-sign"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.atanh",
+        "dep": [
+            "../internals/export"
+        ]
+    },
+    {
+        "name": "../../modules/es.math.asinh",
+        "dep": [
+            "../internals/export"
+        ]
+    },
+    {
+        "name": "../../modules/es.number.to-precision",
+        "dep": [
+            "../internals/export",
+            "../internals/fails",
+            "../internals/this-number-value"
+        ]
+    },
+    {
+        "name": "../../modules/es.number.to-fixed",
+        "dep": [
+            "../internals/export",
+            "../internals/to-integer",
+            "../internals/this-number-value",
+            "../internals/string-repeat",
+            "../internals/fails"
+        ]
+    },
+    {
+        "name": "../../modules/es.number.parse-int",
+        "dep": [
+            "../internals/export",
+            "../internals/parse-int"
+        ]
+    },
+    {
+        "name": "../../modules/es.number.parse-float",
+        "dep": [
+            "../internals/export",
+            "../internals/parse-float"
+        ]
+    },
+    {
+        "name": "../../modules/es.number.min-safe-integer",
+        "dep": [
+            "../internals/export"
+        ]
+    },
+    {
+        "name": "../../modules/es.number.max-safe-integer",
+        "dep": [
+            "../internals/export"
+        ]
+    },
+    {
+        "name": "../../modules/es.number.is-safe-integer",
+        "dep": [
+            "../internals/export",
+            "../internals/is-integer"
+        ]
+    },
+    {
+        "name": "../../modules/es.number.is-nan",
+        "dep": [
+            "../internals/export"
+        ]
+    },
+    {
+        "name": "../../modules/es.number.is-integer",
+        "dep": [
+            "../internals/export",
+            "../internals/is-integer"
+        ]
+    },
+    {
+        "name": "../../modules/es.number.is-finite",
+        "dep": [
+            "../internals/export",
+            "../internals/number-is-finite"
+        ]
+    },
+    {
+        "name": "../../modules/es.number.epsilon",
+        "dep": [
+            "../internals/export"
+        ]
+    },
+    {
+        "name": "../internals/microtask",
+        "dep": [
+            "../internals/global",
+            "../internals/object-get-own-property-descriptor",
+            "../internals/classof-raw",
+            "../internals/task",
+            "../internals/user-agent"
+        ]
+    },
+    {
+        "name": "../internals/task",
+        "dep": [
+            "../internals/global",
+            "../internals/fails",
+            "../internals/classof-raw",
+            "../internals/bind-context",
+            "../internals/html",
+            "../internals/document-create-element"
+        ]
+    },
+    {
+        "name": "../internals/species-constructor",
+        "dep": [
+            "../internals/an-object",
+            "../internals/a-function",
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "../internals/check-correctness-of-iteration",
+        "dep": [
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "../internals/iterate",
+        "dep": [
+            "../internals/an-object",
+            "../internals/is-array-iterator-method",
+            "../internals/to-length",
+            "../internals/bind-context",
+            "../internals/get-iterator-method",
+            "../internals/call-with-safe-iteration-closing"
+        ]
+    },
+    {
+        "name": "../internals/classof-raw",
+        "dep": []
+    },
+    {
+        "name": "../internals/an-instance",
+        "dep": []
+    },
+    {
+        "name": "../internals/a-function",
+        "dep": []
+    },
+    {
+        "name": "../internals/set-species",
+        "dep": [
+            "../internals/get-built-in",
+            "../internals/object-define-property",
+            "../internals/well-known-symbol",
+            "../internals/descriptors"
+        ]
+    },
+    {
+        "name": "../internals/set-to-string-tag",
+        "dep": [
+            "../internals/object-define-property",
+            "../internals/has",
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "../internals/redefine-all",
+        "dep": [
+            "../internals/redefine"
+        ]
+    },
+    {
+        "name": "../internals/require-object-coercible",
+        "dep": []
+    },
+    {
+        "name": "../internals/indexed-object",
+        "dep": [
+            "../internals/fails",
+            "../internals/classof-raw"
+        ]
+    },
+    {
+        "name": "../internals/dom-iterables",
+        "dep": []
+    },
+    {
+        "name": "../internals/shared-key",
+        "dep": [
+            "../internals/shared",
+            "../internals/uid"
+        ]
+    },
+    {
+        "name": "../internals/object-keys-internal",
+        "dep": [
+            "../internals/has",
+            "../internals/to-indexed-object",
+            "../internals/array-includes",
+            "../internals/hidden-keys"
+        ]
+    },
+    {
+        "name": "../internals/function-to-string",
+        "dep": [
+            "../internals/shared"
+        ]
+    },
+    {
+        "name": "../internals/to-integer",
+        "dep": []
+    },
+    {
+        "name": "../internals/inherit-if-required",
+        "dep": [
+            "../internals/is-object",
+            "../internals/object-set-prototype-of"
+        ]
+    },
+    {
+        "name": "../internals/uid",
+        "dep": []
+    },
+    {
+        "name": "../internals/shared",
+        "dep": [
+            "../internals/global",
+            "../internals/set-global",
+            "../internals/is-pure"
+        ]
+    },
+    {
+        "name": "tslib",
+        "dep": []
+    },
+    {
+        "name": "@angular/router",
+        "dep": [
+            "tslib",
+            "@angular/common",
+            "@angular/core",
+            "rxjs",
+            "rxjs/operators",
+            "@angular/platform-browser"
+        ]
+    },
+    {
+        "name": "../internals/string-trim",
+        "dep": [
+            "../internals/require-object-coercible",
+            "../internals/whitespaces"
+        ]
+    },
+    {
+        "name": "../internals/math-log1p",
+        "dep": []
+    },
+    {
+        "name": "../internals/object-define-property",
+        "dep": [
+            "../internals/descriptors",
+            "../internals/ie8-dom-define",
+            "../internals/an-object",
+            "../internals/to-primitive"
+        ]
+    },
+    {
+        "name": "../internals/regexp-flags",
+        "dep": [
+            "../internals/an-object"
+        ]
+    },
+    {
+        "name": "../internals/is-regexp",
+        "dep": [
+            "../internals/is-object",
+            "../internals/classof-raw",
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "../internals/object-get-own-property-names",
+        "dep": [
+            "../internals/object-keys-internal",
+            "../internals/enum-bug-keys"
+        ]
+    },
+    {
+        "name": "../internals/own-keys",
+        "dep": [
+            "../internals/get-built-in",
+            "../internals/object-get-own-property-names",
+            "../internals/object-get-own-property-symbols",
+            "../internals/an-object"
+        ]
+    },
+    {
+        "name": "../internals/ie8-dom-define",
+        "dep": [
+            "../internals/descriptors",
+            "../internals/fails",
+            "../internals/document-create-element"
+        ]
+    },
+    {
+        "name": "../internals/object-property-is-enumerable",
+        "dep": []
+    },
+    {
+        "name": "../internals/native-weak-map",
+        "dep": [
+            "../internals/global",
+            "../internals/function-to-string"
+        ]
+    },
+    {
+        "name": "../internals/hidden-keys",
+        "dep": []
+    },
+    {
+        "name": "../internals/get-built-in",
+        "dep": [
+            "../../internals/path",
+            "../internals/global"
+        ]
+    },
+    {
+        "name": "../internals/fix-regexp-well-known-symbol-logic",
+        "dep": [
+            "../internals/hide",
+            "../internals/redefine",
+            "../internals/fails",
+            "../internals/well-known-symbol",
+            "../internals/regexp-exec"
+        ]
+    },
+    {
+        "name": "../internals/regexp-exec",
+        "dep": [
+            "../internals/regexp-flags"
+        ]
+    },
+    {
+        "name": "../internals/regexp-exec-abstract",
+        "dep": [
+            "../internals/classof-raw",
+            "../internals/regexp-exec"
+        ]
+    },
+    {
+        "name": "../internals/advance-string-index",
+        "dep": [
+            "../internals/string-multibyte"
+        ]
+    },
+    {
+        "name": "../internals/to-length",
+        "dep": [
+            "../internals/to-integer"
+        ]
+    },
+    {
+        "name": "../internals/date-to-primitive",
+        "dep": [
+            "../internals/an-object",
+            "../internals/to-primitive"
+        ]
+    },
+    {
+        "name": "../internals/date-to-iso-string",
+        "dep": [
+            "../internals/fails",
+            "../internals/string-pad"
+        ]
+    },
+    {
+        "name": "../internals/math-expm1",
+        "dep": []
+    },
+    {
+        "name": "../internals/math-sign",
+        "dep": []
+    },
+    {
+        "name": "../internals/same-value",
+        "dep": []
+    },
+    {
+        "name": "../internals/math-fround",
+        "dep": [
+            "../internals/math-sign"
+        ]
+    },
+    {
+        "name": "../internals/this-number-value",
+        "dep": [
+            "../internals/classof-raw"
+        ]
+    },
+    {
+        "name": "../internals/string-repeat",
+        "dep": [
+            "../internals/to-integer",
+            "../internals/require-object-coercible"
+        ]
+    },
+    {
+        "name": "../internals/parse-int",
+        "dep": [
+            "../internals/global",
+            "../internals/string-trim",
+            "../internals/whitespaces"
+        ]
+    },
+    {
+        "name": "../internals/parse-float",
+        "dep": [
+            "../internals/global",
+            "../internals/string-trim",
+            "../internals/whitespaces"
+        ]
+    },
+    {
+        "name": "../internals/is-integer",
+        "dep": [
+            "../internals/is-object"
+        ]
+    },
+    {
+        "name": "../internals/number-is-finite",
+        "dep": [
+            "../internals/global"
+        ]
+    },
+    {
+        "name": "../internals/document-create-element",
+        "dep": [
+            "../internals/global",
+            "../internals/is-object"
+        ]
+    },
+    {
+        "name": "../internals/html",
+        "dep": [
+            "../internals/get-built-in"
+        ]
+    },
+    {
+        "name": "../internals/bind-context",
+        "dep": [
+            "../internals/a-function"
+        ]
+    },
+    {
+        "name": "../internals/call-with-safe-iteration-closing",
+        "dep": [
+            "../internals/an-object"
+        ]
+    },
+    {
+        "name": "../internals/get-iterator-method",
+        "dep": [
+            "../internals/classof",
+            "../internals/iterators",
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "../internals/is-array-iterator-method",
+        "dep": [
+            "../internals/well-known-symbol",
+            "../internals/iterators"
+        ]
+    },
+    {
+        "name": "../internals/internal-metadata",
+        "dep": [
+            "../internals/hidden-keys",
+            "../internals/is-object",
+            "../internals/has",
+            "../internals/object-define-property",
+            "../internals/uid",
+            "../internals/freezing"
+        ]
+    },
+    {
+        "name": "../internals/wrapped-well-known-symbol",
+        "dep": [
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "../internals/enum-bug-keys",
+        "dep": []
+    },
+    {
+        "name": "../internals/object-define-properties",
+        "dep": [
+            "../internals/descriptors",
+            "../internals/object-define-property",
+            "../internals/an-object",
+            "../internals/object-keys"
+        ]
+    },
+    {
+        "name": "../internals/collection-strong",
+        "dep": [
+            "../internals/object-define-property",
+            "../internals/object-create",
+            "../internals/redefine-all",
+            "../internals/bind-context",
+            "../internals/an-instance",
+            "../internals/iterate",
+            "../internals/define-iterator",
+            "../internals/set-species",
+            "../internals/descriptors",
+            "../internals/internal-metadata",
+            "../internals/internal-state"
+        ]
+    },
+    {
+        "name": "../internals/array-includes",
+        "dep": [
+            "../internals/to-indexed-object",
+            "../internals/to-length",
+            "../internals/to-absolute-index"
+        ]
+    },
+    {
+        "name": "../internals/collection-weak",
+        "dep": [
+            "../internals/redefine-all",
+            "../internals/internal-metadata",
+            "../internals/an-object",
+            "../internals/is-object",
+            "../internals/an-instance",
+            "../internals/iterate",
+            "../internals/array-iteration",
+            "../internals/has",
+            "../internals/internal-state"
+        ]
+    },
+    {
+        "name": "../internals/object-set-prototype-of",
+        "dep": [
+            "../internals/an-object",
+            "../internals/a-possible-prototype"
+        ]
+    },
+    {
+        "name": "../internals/forced-string-html-method",
+        "dep": [
+            "../internals/fails"
+        ]
+    },
+    {
+        "name": "../internals/create-html",
+        "dep": [
+            "../internals/require-object-coercible"
+        ]
+    },
+    {
+        "name": "@angular/common",
+        "dep": [
+            "@angular/core",
+            "tslib"
+        ]
+    },
+    {
+        "name": "../internals/whitespaces",
+        "dep": []
+    },
+    {
+        "name": "../internals/object-get-own-property-symbols",
+        "dep": []
+    },
+    {
+        "name": "../internals/correct-is-regexp-logic",
+        "dep": [
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "../internals/not-a-regexp",
+        "dep": [
+            "../internals/is-regexp"
+        ]
+    },
+    {
+        "name": "../internals/define-iterator",
+        "dep": [
+            "../internals/export",
+            "../internals/create-iterator-constructor",
+            "../internals/object-get-prototype-of",
+            "../internals/object-set-prototype-of",
+            "../internals/set-to-string-tag",
+            "../internals/hide",
+            "../internals/redefine",
+            "../internals/well-known-symbol",
+            "../internals/is-pure",
+            "../internals/iterators",
+            "../internals/iterators-core"
+        ]
+    },
+    {
+        "name": "../internals/forced-string-trim-method",
+        "dep": [
+            "../internals/fails",
+            "../internals/whitespaces"
+        ]
+    },
+    {
+        "name": "../internals/to-absolute-index",
+        "dep": [
+            "../internals/to-integer"
+        ]
+    },
+    {
+        "name": "../internals/iterators",
+        "dep": []
+    },
+    {
+        "name": "../internals/add-to-unscopables",
+        "dep": [
+            "../internals/well-known-symbol",
+            "../internals/object-create",
+            "../internals/hide"
+        ]
+    },
+    {
+        "name": "../internals/array-iteration",
+        "dep": [
+            "../internals/bind-context",
+            "../internals/indexed-object",
+            "../internals/to-object",
+            "../internals/to-length",
+            "../internals/array-species-create"
+        ]
+    },
+    {
+        "name": "../internals/array-copy-within",
+        "dep": [
+            "../internals/to-object",
+            "../internals/to-absolute-index",
+            "../internals/to-length"
+        ]
+    },
+    {
+        "name": "../internals/array-fill",
+        "dep": [
+            "../internals/to-object",
+            "../internals/to-absolute-index",
+            "../internals/to-length"
+        ]
+    },
+    {
+        "name": "../internals/array-last-index-of",
+        "dep": [
+            "../internals/to-indexed-object",
+            "../internals/to-integer",
+            "../internals/to-length",
+            "../internals/sloppy-array-method"
+        ]
+    },
+    {
+        "name": "../internals/sloppy-array-method",
+        "dep": [
+            "../internals/fails"
+        ]
+    },
+    {
+        "name": "../internals/string-pad",
+        "dep": [
+            "../internals/to-length",
+            "../internals/string-repeat",
+            "../internals/require-object-coercible"
+        ]
+    },
+    {
+        "name": "../internals/array-reduce",
+        "dep": [
+            "../internals/a-function",
+            "../internals/to-object",
+            "../internals/indexed-object",
+            "../internals/to-length"
+        ]
+    },
+    {
+        "name": "../internals/array-method-has-species-support",
+        "dep": [
+            "../internals/fails",
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "../internals/array-for-each",
+        "dep": [
+            "../internals/array-iteration",
+            "../internals/sloppy-array-method"
+        ]
+    },
+    {
+        "name": "../internals/create-property",
+        "dep": [
+            "../internals/to-primitive",
+            "../internals/object-define-property",
+            "../internals/create-property-descriptor"
+        ]
+    },
+    {
+        "name": "../internals/array-from",
+        "dep": [
+            "../internals/bind-context",
+            "../internals/to-object",
+            "../internals/call-with-safe-iteration-closing",
+            "../internals/is-array-iterator-method",
+            "../internals/to-length",
+            "../internals/create-property",
+            "../internals/get-iterator-method"
+        ]
+    },
+    {
+        "name": "../internals/object-to-string",
+        "dep": [
+            "../internals/classof",
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "../internals/object-assign",
+        "dep": [
+            "../internals/descriptors",
+            "../internals/fails",
+            "../internals/object-keys",
+            "../internals/object-get-own-property-symbols",
+            "../internals/object-property-is-enumerable",
+            "../internals/to-object",
+            "../internals/indexed-object"
+        ]
+    },
+    {
+        "name": "../internals/freezing",
+        "dep": [
+            "../internals/fails"
+        ]
+    },
+    {
+        "name": "../internals/classof",
+        "dep": [
+            "../internals/classof-raw",
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "../internals/object-get-own-property-names-external",
+        "dep": [
+            "../internals/to-indexed-object",
+            "../internals/object-get-own-property-names"
+        ]
+    },
+    {
+        "name": "../internals/correct-prototype-getter",
+        "dep": [
+            "../internals/fails"
+        ]
+    },
+    {
+        "name": "../internals/object-get-prototype-of",
+        "dep": [
+            "../internals/has",
+            "../internals/to-object",
+            "../internals/shared-key",
+            "../internals/correct-prototype-getter"
+        ]
+    },
+    {
+        "name": "../internals/function-bind",
+        "dep": [
+            "../internals/a-function",
+            "../internals/is-object"
+        ]
+    },
+    {
+        "name": "../internals/a-possible-prototype",
+        "dep": [
+            "../internals/is-object"
+        ]
+    },
+    {
+        "name": "rxjs",
+        "dep": [
+            "./internal/Observable",
+            "./internal/observable/ConnectableObservable",
+            "./internal/operators/groupBy",
+            "./internal/symbol/observable",
+            "./internal/Subject",
+            "./internal/BehaviorSubject",
+            "./internal/ReplaySubject",
+            "./internal/AsyncSubject",
+            "./internal/scheduler/asap",
+            "./internal/scheduler/async",
+            "./internal/scheduler/queue",
+            "./internal/scheduler/animationFrame",
+            "./internal/scheduler/VirtualTimeScheduler",
+            "./internal/Scheduler",
+            "./internal/Subscription",
+            "./internal/Subscriber",
+            "./internal/Notification",
+            "./internal/util/pipe",
+            "./internal/util/noop",
+            "./internal/util/identity",
+            "./internal/util/isObservable",
+            "./internal/util/ArgumentOutOfRangeError",
+            "./internal/util/EmptyError",
+            "./internal/util/ObjectUnsubscribedError",
+            "./internal/util/UnsubscriptionError",
+            "./internal/util/TimeoutError",
+            "./internal/observable/bindCallback",
+            "./internal/observable/bindNodeCallback",
+            "./internal/observable/combineLatest",
+            "./internal/observable/concat",
+            "./internal/observable/defer",
+            "./internal/observable/empty",
+            "./internal/observable/forkJoin",
+            "./internal/observable/from",
+            "./internal/observable/fromEvent",
+            "./internal/observable/fromEventPattern",
+            "./internal/observable/generate",
+            "./internal/observable/iif",
+            "./internal/observable/interval",
+            "./internal/observable/merge",
+            "./internal/observable/never",
+            "./internal/observable/of",
+            "./internal/observable/onErrorResumeNext",
+            "./internal/observable/pairs",
+            "./internal/observable/race",
+            "./internal/observable/range",
+            "./internal/observable/throwError",
+            "./internal/observable/timer",
+            "./internal/observable/using",
+            "./internal/observable/zip",
+            "./internal/config"
+        ]
+    },
+    {
+        "name": "rxjs/operators",
+        "dep": [
+            "../internal/operators/audit",
+            "../internal/operators/auditTime",
+            "../internal/operators/buffer",
+            "../internal/operators/bufferCount",
+            "../internal/operators/bufferTime",
+            "../internal/operators/bufferToggle",
+            "../internal/operators/bufferWhen",
+            "../internal/operators/catchError",
+            "../internal/operators/combineAll",
+            "../internal/operators/combineLatest",
+            "../internal/operators/concat",
+            "../internal/operators/concatAll",
+            "../internal/operators/concatMap",
+            "../internal/operators/concatMapTo",
+            "../internal/operators/count",
+            "../internal/operators/debounce",
+            "../internal/operators/debounceTime",
+            "../internal/operators/defaultIfEmpty",
+            "../internal/operators/delay",
+            "../internal/operators/delayWhen",
+            "../internal/operators/dematerialize",
+            "../internal/operators/distinct",
+            "../internal/operators/distinctUntilChanged",
+            "../internal/operators/distinctUntilKeyChanged",
+            "../internal/operators/elementAt",
+            "../internal/operators/endWith",
+            "../internal/operators/every",
+            "../internal/operators/exhaust",
+            "../internal/operators/exhaustMap",
+            "../internal/operators/expand",
+            "../internal/operators/filter",
+            "../internal/operators/finalize",
+            "../internal/operators/find",
+            "../internal/operators/findIndex",
+            "../internal/operators/first",
+            "./internal/operators/groupBy",
+            "../internal/operators/ignoreElements",
+            "../internal/operators/isEmpty",
+            "../internal/operators/last",
+            "../internal/operators/map",
+            "../internal/operators/mapTo",
+            "../internal/operators/materialize",
+            "../internal/operators/max",
+            "../internal/operators/merge",
+            "../internal/operators/mergeAll",
+            "./mergeMap",
+            "../internal/operators/mergeMapTo",
+            "../internal/operators/mergeScan",
+            "../internal/operators/min",
+            "../internal/operators/multicast",
+            "./operators/observeOn",
+            "../internal/operators/onErrorResumeNext",
+            "../internal/operators/pairwise",
+            "../internal/operators/partition",
+            "../internal/operators/pluck",
+            "../internal/operators/publish",
+            "../internal/operators/publishBehavior",
+            "../internal/operators/publishLast",
+            "../internal/operators/publishReplay",
+            "../internal/operators/race",
+            "./reduce",
+            "../internal/operators/repeat",
+            "../internal/operators/repeatWhen",
+            "../internal/operators/retry",
+            "../internal/operators/retryWhen",
+            "../operators/refCount",
+            "../internal/operators/sample",
+            "../internal/operators/sampleTime",
+            "../internal/operators/scan",
+            "../internal/operators/sequenceEqual",
+            "../internal/operators/share",
+            "../internal/operators/shareReplay",
+            "../internal/operators/single",
+            "../internal/operators/skip",
+            "../internal/operators/skipLast",
+            "../internal/operators/skipUntil",
+            "../internal/operators/skipWhile",
+            "../internal/operators/startWith",
+            "../internal/operators/subscribeOn",
+            "../internal/operators/switchAll",
+            "../internal/operators/switchMap",
+            "../internal/operators/switchMapTo",
+            "./take",
+            "./takeLast",
+            "../internal/operators/takeUntil",
+            "../internal/operators/takeWhile",
+            "../internal/operators/tap",
+            "../internal/operators/throttle",
+            "../internal/operators/throttleTime",
+            "./throwIfEmpty",
+            "../internal/operators/timeInterval",
+            "../internal/operators/timeout",
+            "../internal/operators/timeoutWith",
+            "../internal/operators/timestamp",
+            "../internal/operators/toArray",
+            "../internal/operators/window",
+            "../internal/operators/windowCount",
+            "../internal/operators/windowTime",
+            "../internal/operators/windowToggle",
+            "../internal/operators/windowWhen",
+            "../internal/operators/withLatestFrom",
+            "../internal/operators/zip",
+            "../internal/operators/zipAll"
+        ]
+    },
+    {
+        "name": "../internals/create-iterator-constructor",
+        "dep": [
+            "../internals/iterators-core",
+            "../internals/object-create",
+            "../internals/create-property-descriptor",
+            "../internals/set-to-string-tag",
+            "../internals/iterators"
+        ]
+    },
+    {
+        "name": "../internals/iterators-core",
+        "dep": [
+            "../internals/object-get-prototype-of",
+            "../internals/hide",
+            "../internals/has",
+            "../internals/well-known-symbol",
+            "../internals/is-pure"
+        ]
+    },
+    {
+        "name": "../internals/array-species-create",
+        "dep": [
+            "../internals/is-object",
+            "../internals/is-array",
+            "../internals/well-known-symbol"
+        ]
+    },
+    {
+        "name": "./internal/Observable",
+        "dep": [
+            "./util/canReportError",
+            "./util/toSubscriber",
+            "./internal/symbol/observable",
+            "./internal/util/pipe",
+            "./internal/config"
+        ]
+    },
+    {
+        "name": "./internal/Subject",
+        "dep": [
+            "tslib",
+            "./internal/Observable",
+            "./internal/Subscriber",
+            "./internal/Subscription",
+            "./internal/util/ObjectUnsubscribedError",
+            "./SubjectSubscription",
+            "../internal/symbol/rxSubscriber"
+        ]
+    },
+    {
+        "name": "./internal/BehaviorSubject",
+        "dep": [
+            "tslib",
+            "./internal/Subject",
+            "./internal/util/ObjectUnsubscribedError"
+        ]
+    },
+    {
+        "name": "./internal/ReplaySubject",
+        "dep": [
+            "tslib",
+            "./internal/Subject",
+            "./internal/scheduler/queue",
+            "./internal/Subscription",
+            "./operators/observeOn",
+            "./internal/util/ObjectUnsubscribedError",
+            "./SubjectSubscription"
+        ]
+    },
+    {
+        "name": "./internal/AsyncSubject",
+        "dep": [
+            "tslib",
+            "./internal/Subject",
+            "./internal/Subscription"
+        ]
+    },
+    {
+        "name": "./internal/Scheduler",
+        "dep": []
+    },
+    {
+        "name": "./internal/Subscription",
+        "dep": [
+            "./util/isArray",
+            "./util/isObject",
+            "../util/isFunction",
+            "./internal/util/UnsubscriptionError"
+        ]
+    },
+    {
+        "name": "./internal/Subscriber",
+        "dep": [
+            "tslib",
+            "../util/isFunction",
+            "./Observer",
+            "./internal/Subscription",
+            "../internal/symbol/rxSubscriber",
+            "./internal/config",
+            "./util/hostReportError"
+        ]
+    },
+    {
+        "name": "./internal/Notification",
+        "dep": [
+            "./internal/observable/empty",
+            "./internal/observable/of",
+            "./internal/observable/throwError"
+        ]
+    },
+    {
+        "name": "./internal/config",
+        "dep": []
+    },
+    {
+        "name": "./internal/symbol/observable",
+        "dep": []
+    },
+    {
+        "name": "./internal/observable/ConnectableObservable",
+        "dep": [
+            "tslib",
+            "./internal/Subject",
+            "./internal/Observable",
+            "./internal/Subscriber",
+            "./internal/Subscription",
+            "../operators/refCount"
+        ]
+    },
+    {
+        "name": "./internal/observable/bindCallback",
+        "dep": [
+            "./internal/Observable",
+            "./internal/AsyncSubject",
+            "../internal/operators/map",
+            "./util/canReportError",
+            "./util/isArray",
+            "../util/isScheduler"
+        ]
+    },
+    {
+        "name": "./internal/observable/bindNodeCallback",
+        "dep": [
+            "./internal/Observable",
+            "./internal/AsyncSubject",
+            "../internal/operators/map",
+            "./util/canReportError",
+            "../util/isScheduler",
+            "./util/isArray"
+        ]
+    },
+    {
+        "name": "./internal/observable/combineLatest",
+        "dep": [
+            "tslib",
+            "../util/isScheduler",
+            "./util/isArray",
+            "../OuterSubscriber",
+            "../util/subscribeToResult",
+            "./fromArray"
+        ]
+    },
+    {
+        "name": "./internal/observable/concat",
+        "dep": [
+            "./internal/observable/of",
+            "../internal/operators/concatAll"
+        ]
+    },
+    {
+        "name": "./internal/observable/defer",
+        "dep": [
+            "./internal/Observable",
+            "./internal/observable/from",
+            "./internal/observable/empty"
+        ]
+    },
+    {
+        "name": "./internal/observable/empty",
+        "dep": [
+            "./internal/Observable"
+        ]
+    },
+    {
+        "name": "./internal/observable/forkJoin",
+        "dep": [
+            "tslib",
+            "./internal/Observable",
+            "./util/isArray",
+            "./internal/observable/empty",
+            "../util/subscribeToResult",
+            "../OuterSubscriber",
+            "../internal/operators/map"
+        ]
+    },
+    {
+        "name": "./internal/observable/from",
+        "dep": [
+            "./internal/Observable",
+            "../util/isPromise",
+            "../util/isArrayLike",
+            "../util/isInteropObservable",
+            "../util/isIterable",
+            "./fromArray",
+            "./fromPromise",
+            "./fromIterable",
+            "./fromObservable",
+            "../util/subscribeTo"
+        ]
+    },
+    {
+        "name": "./internal/observable/fromEvent",
+        "dep": [
+            "./internal/Observable",
+            "./util/isArray",
+            "../util/isFunction",
+            "../internal/operators/map"
+        ]
+    },
+    {
+        "name": "./internal/observable/fromEventPattern",
+        "dep": [
+            "./internal/Observable",
+            "./util/isArray",
+            "../util/isFunction",
+            "../internal/operators/map"
+        ]
+    },
+    {
+        "name": "./internal/observable/generate",
+        "dep": [
+            "./internal/Observable",
+            "./internal/util/identity",
+            "../util/isScheduler"
+        ]
+    },
+    {
+        "name": "./internal/observable/iif",
+        "dep": [
+            "./internal/observable/defer",
+            "./internal/observable/empty"
+        ]
+    },
+    {
+        "name": "./internal/observable/interval",
+        "dep": [
+            "./internal/Observable",
+            "./internal/scheduler/async",
+            "../util/isNumeric"
+        ]
+    },
+    {
+        "name": "./internal/observable/merge",
+        "dep": [
+            "./internal/Observable",
+            "../util/isScheduler",
+            "../internal/operators/mergeAll",
+            "./fromArray"
+        ]
+    },
+    {
+        "name": "./internal/observable/never",
+        "dep": [
+            "./internal/Observable",
+            "./internal/util/noop"
+        ]
+    },
+    {
+        "name": "./internal/observable/of",
+        "dep": [
+            "../util/isScheduler",
+            "./fromArray",
+            "./internal/observable/empty",
+            "./scalar"
+        ]
+    },
+    {
+        "name": "./internal/observable/onErrorResumeNext",
+        "dep": [
+            "./internal/Observable",
+            "./internal/observable/from",
+            "./util/isArray",
+            "./internal/observable/empty"
+        ]
+    },
+    {
+        "name": "./internal/observable/pairs",
+        "dep": [
+            "./internal/Observable",
+            "./internal/Subscription"
+        ]
+    },
+    {
+        "name": "./internal/observable/race",
+        "dep": [
+            "tslib",
+            "./util/isArray",
+            "./fromArray",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "./internal/observable/throwError",
+        "dep": [
+            "./internal/Observable"
+        ]
+    },
+    {
+        "name": "./internal/observable/range",
+        "dep": [
+            "./internal/Observable"
+        ]
+    },
+    {
+        "name": "./internal/observable/timer",
+        "dep": [
+            "./internal/Observable",
+            "./internal/scheduler/async",
+            "../util/isNumeric",
+            "../util/isScheduler"
+        ]
+    },
+    {
+        "name": "./internal/observable/using",
+        "dep": [
+            "./internal/Observable",
+            "./internal/observable/from",
+            "./internal/observable/empty"
+        ]
+    },
+    {
+        "name": "./internal/observable/zip",
+        "dep": [
+            "tslib",
+            "./fromArray",
+            "./util/isArray",
+            "./internal/Subscriber",
+            "../OuterSubscriber",
+            "../util/subscribeToResult",
+            "../../internal/symbol/iterator"
+        ]
+    },
+    {
+        "name": "./internal/operators/groupBy",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber",
+            "./internal/Subscription",
+            "./internal/Observable",
+            "./internal/Subject"
+        ]
+    },
+    {
+        "name": "./internal/scheduler/asap",
+        "dep": [
+            "./AsapAction",
+            "./AsapScheduler"
+        ]
+    },
+    {
+        "name": "./internal/scheduler/async",
+        "dep": [
+            "./AsyncAction",
+            "./AsyncScheduler"
+        ]
+    },
+    {
+        "name": "./internal/scheduler/queue",
+        "dep": [
+            "./QueueAction",
+            "./QueueScheduler"
+        ]
+    },
+    {
+        "name": "./internal/scheduler/animationFrame",
+        "dep": [
+            "./AnimationFrameAction",
+            "./AnimationFrameScheduler"
+        ]
+    },
+    {
+        "name": "./internal/scheduler/VirtualTimeScheduler",
+        "dep": [
+            "tslib",
+            "./AsyncAction",
+            "./AsyncScheduler"
+        ]
+    },
+    {
+        "name": "./internal/util/pipe",
+        "dep": [
+            "./internal/util/noop"
+        ]
+    },
+    {
+        "name": "./internal/util/noop",
+        "dep": []
+    },
+    {
+        "name": "./internal/util/identity",
+        "dep": []
+    },
+    {
+        "name": "./internal/util/isObservable",
+        "dep": [
+            "./internal/Observable"
+        ]
+    },
+    {
+        "name": "./internal/util/ArgumentOutOfRangeError",
+        "dep": []
+    },
+    {
+        "name": "./internal/util/EmptyError",
+        "dep": []
+    },
+    {
+        "name": "./internal/util/ObjectUnsubscribedError",
+        "dep": []
+    },
+    {
+        "name": "./internal/util/UnsubscriptionError",
+        "dep": []
+    },
+    {
+        "name": "./internal/util/TimeoutError",
+        "dep": []
+    },
+    {
+        "name": "../internal/operators/audit",
+        "dep": [
+            "tslib",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/auditTime",
+        "dep": [
+            "./internal/scheduler/async",
+            "../internal/operators/audit",
+            "./internal/observable/timer"
+        ]
+    },
+    {
+        "name": "../internal/operators/buffer",
+        "dep": [
+            "tslib",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/bufferTime",
+        "dep": [
+            "tslib",
+            "./internal/scheduler/async",
+            "./internal/Subscriber",
+            "../util/isScheduler"
+        ]
+    },
+    {
+        "name": "../internal/operators/bufferCount",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/bufferToggle",
+        "dep": [
+            "tslib",
+            "./internal/Subscription",
+            "../util/subscribeToResult",
+            "../OuterSubscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/bufferWhen",
+        "dep": [
+            "tslib",
+            "./internal/Subscription",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/catchError",
+        "dep": [
+            "tslib",
+            "../OuterSubscriber",
+            "../InnerSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/combineAll",
+        "dep": [
+            "./internal/observable/combineLatest"
+        ]
+    },
+    {
+        "name": "../internal/operators/combineLatest",
+        "dep": [
+            "./util/isArray",
+            "./internal/observable/combineLatest",
+            "./internal/observable/from"
+        ]
+    },
+    {
+        "name": "../internal/operators/concat",
+        "dep": [
+            "./internal/observable/concat"
+        ]
+    },
+    {
+        "name": "../internal/operators/concatAll",
+        "dep": [
+            "../internal/operators/mergeAll"
+        ]
+    },
+    {
+        "name": "../internal/operators/concatMap",
+        "dep": [
+            "./mergeMap"
+        ]
+    },
+    {
+        "name": "../internal/operators/concatMapTo",
+        "dep": [
+            "../internal/operators/concatMap"
+        ]
+    },
+    {
+        "name": "../internal/operators/count",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/debounce",
+        "dep": [
+            "tslib",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/debounceTime",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber",
+            "./internal/scheduler/async"
+        ]
+    },
+    {
+        "name": "../internal/operators/defaultIfEmpty",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/delay",
+        "dep": [
+            "tslib",
+            "./internal/scheduler/async",
+            "../util/isDate",
+            "./internal/Subscriber",
+            "./internal/Notification"
+        ]
+    },
+    {
+        "name": "../internal/operators/delayWhen",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber",
+            "./internal/Observable",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/dematerialize",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/distinct",
+        "dep": [
+            "tslib",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/distinctUntilChanged",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/distinctUntilKeyChanged",
+        "dep": [
+            "../internal/operators/distinctUntilChanged"
+        ]
+    },
+    {
+        "name": "../internal/operators/elementAt",
+        "dep": [
+            "./internal/util/ArgumentOutOfRangeError",
+            "../internal/operators/filter",
+            "./throwIfEmpty",
+            "../internal/operators/defaultIfEmpty",
+            "./take"
+        ]
+    },
+    {
+        "name": "../internal/operators/endWith",
+        "dep": [
+            "./fromArray",
+            "./scalar",
+            "./internal/observable/empty",
+            "./internal/observable/concat",
+            "../util/isScheduler"
+        ]
+    },
+    {
+        "name": "../internal/operators/every",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/exhaust",
+        "dep": [
+            "tslib",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/exhaustMap",
+        "dep": [
+            "tslib",
+            "../OuterSubscriber",
+            "../InnerSubscriber",
+            "../util/subscribeToResult",
+            "../internal/operators/map",
+            "./internal/observable/from"
+        ]
+    },
+    {
+        "name": "../internal/operators/expand",
+        "dep": [
+            "tslib",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/filter",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/finalize",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber",
+            "./internal/Subscription"
+        ]
+    },
+    {
+        "name": "../internal/operators/find",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/findIndex",
+        "dep": [
+            "../internal/operators/find"
+        ]
+    },
+    {
+        "name": "../internal/operators/first",
+        "dep": [
+            "./internal/util/EmptyError",
+            "../internal/operators/filter",
+            "./take",
+            "../internal/operators/defaultIfEmpty",
+            "./throwIfEmpty",
+            "./internal/util/identity"
+        ]
+    },
+    {
+        "name": "../internal/operators/ignoreElements",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/isEmpty",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/last",
+        "dep": [
+            "./internal/util/EmptyError",
+            "../internal/operators/filter",
+            "./takeLast",
+            "./throwIfEmpty",
+            "../internal/operators/defaultIfEmpty",
+            "./internal/util/identity"
+        ]
+    },
+    {
+        "name": "../internal/operators/map",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/mapTo",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/materialize",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber",
+            "./internal/Notification"
+        ]
+    },
+    {
+        "name": "../internal/operators/max",
+        "dep": [
+            "./reduce"
+        ]
+    },
+    {
+        "name": "../internal/operators/merge",
+        "dep": [
+            "./internal/observable/merge"
+        ]
+    },
+    {
+        "name": "../internal/operators/mergeAll",
+        "dep": [
+            "./mergeMap",
+            "./internal/util/identity"
+        ]
+    },
+    {
+        "name": "../internal/operators/zipAll",
+        "dep": [
+            "./internal/observable/zip"
+        ]
+    },
+    {
+        "name": "../internal/operators/zip",
+        "dep": [
+            "./internal/observable/zip"
+        ]
+    },
+    {
+        "name": "../internal/operators/withLatestFrom",
+        "dep": [
+            "tslib",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/windowWhen",
+        "dep": [
+            "tslib",
+            "./internal/Subject",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "./util/canReportError",
+        "dep": [
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/symbol/rxSubscriber",
+        "dep": []
+    },
+    {
+        "name": "./SubjectSubscription",
+        "dep": [
+            "tslib",
+            "./internal/Subscription"
+        ]
+    },
+    {
+        "name": "./util/isArray",
+        "dep": []
+    },
+    {
+        "name": "./util/hostReportError",
+        "dep": []
+    },
+    {
+        "name": "../operators/refCount",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../util/isScheduler",
+        "dep": []
+    },
+    {
+        "name": "./fromArray",
+        "dep": [
+            "./internal/Observable",
+            "./internal/Subscription",
+            "../util/subscribeToArray"
+        ]
+    },
+    {
+        "name": "../util/subscribeToResult",
+        "dep": [
+            "../InnerSubscriber",
+            "../util/subscribeTo"
+        ]
+    },
+    {
+        "name": "../util/subscribeTo",
+        "dep": [
+            "./internal/Observable",
+            "../util/subscribeToArray",
+            "./subscribeToPromise",
+            "./subscribeToIterable",
+            "../util/subscribeToObservable",
+            "../util/isArrayLike",
+            "../util/isPromise",
+            "./util/isObject",
+            "../../internal/symbol/iterator",
+            "./internal/symbol/observable"
+        ]
+    },
+    {
+        "name": "./fromObservable",
+        "dep": [
+            "./internal/Observable",
+            "./internal/Subscription",
+            "./internal/symbol/observable",
+            "../util/subscribeToObservable"
+        ]
+    },
+    {
+        "name": "../util/isNumeric",
+        "dep": [
+            "./util/isArray"
+        ]
+    },
+    {
+        "name": "./scalar",
+        "dep": [
+            "./internal/Observable"
+        ]
+    },
+    {
+        "name": "../OuterSubscriber",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../../internal/symbol/iterator",
+        "dep": []
+    },
+    {
+        "name": "./AsapAction",
+        "dep": [
+            "tslib",
+            "../util/Immediate",
+            "./AsyncAction"
+        ]
+    },
+    {
+        "name": "./AsyncAction",
+        "dep": [
+            "tslib",
+            "./Action"
+        ]
+    },
+    {
+        "name": "./QueueAction",
+        "dep": [
+            "tslib",
+            "./AsyncAction"
+        ]
+    },
+    {
+        "name": "./AnimationFrameAction",
+        "dep": [
+            "tslib",
+            "./AsyncAction"
+        ]
+    },
+    {
+        "name": "./AsyncScheduler",
+        "dep": [
+            "tslib",
+            "./internal/Scheduler"
+        ]
+    },
+    {
+        "name": "./AnimationFrameScheduler",
+        "dep": [
+            "tslib",
+            "./AsyncScheduler"
+        ]
+    },
+    {
+        "name": "./QueueScheduler",
+        "dep": [
+            "tslib",
+            "./AsyncScheduler"
+        ]
+    },
+    {
+        "name": "./AsapScheduler",
+        "dep": [
+            "tslib",
+            "./AsyncScheduler"
+        ]
+    },
+    {
+        "name": "../util/isFunction",
+        "dep": []
+    },
+    {
+        "name": "./fromIterable",
+        "dep": [
+            "./internal/Observable",
+            "./internal/Subscription",
+            "../../internal/symbol/iterator",
+            "./subscribeToIterable"
+        ]
+    },
+    {
+        "name": "./fromPromise",
+        "dep": [
+            "./internal/Observable",
+            "./internal/Subscription",
+            "./subscribeToPromise"
+        ]
+    },
+    {
+        "name": "../InnerSubscriber",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "./mergeMap",
+        "dep": [
+            "tslib",
+            "../util/subscribeToResult",
+            "../OuterSubscriber",
+            "../InnerSubscriber",
+            "../internal/operators/map",
+            "./internal/observable/from"
+        ]
+    },
+    {
+        "name": "../util/isIterable",
+        "dep": [
+            "../../internal/symbol/iterator"
+        ]
+    },
+    {
+        "name": "../util/isDate",
+        "dep": []
+    },
+    {
+        "name": "../util/isInteropObservable",
+        "dep": [
+            "./internal/symbol/observable"
+        ]
+    },
+    {
+        "name": "./take",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber",
+            "./internal/util/ArgumentOutOfRangeError",
+            "./internal/observable/empty"
+        ]
+    },
+    {
+        "name": "./throwIfEmpty",
+        "dep": [
+            "../internal/operators/tap",
+            "./internal/util/EmptyError"
+        ]
+    },
+    {
+        "name": "./takeLast",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber",
+            "./internal/util/ArgumentOutOfRangeError",
+            "./internal/observable/empty"
+        ]
+    },
+    {
+        "name": "../util/isArrayLike",
+        "dep": []
+    },
+    {
+        "name": "../util/isPromise",
+        "dep": []
+    },
+    {
+        "name": "./reduce",
+        "dep": [
+            "../internal/operators/scan",
+            "./takeLast",
+            "../internal/operators/defaultIfEmpty",
+            "./internal/util/pipe"
+        ]
+    },
+    {
+        "name": "./Observer",
+        "dep": [
+            "./internal/config",
+            "./util/hostReportError"
+        ]
+    },
+    {
+        "name": "./util/isObject",
+        "dep": []
+    },
+    {
+        "name": "./operators/observeOn",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber",
+            "./internal/Notification"
+        ]
+    },
+    {
+        "name": "./util/toSubscriber",
+        "dep": [
+            "./internal/Subscriber",
+            "../internal/symbol/rxSubscriber",
+            "./Observer"
+        ]
+    },
+    {
+        "name": "../internal/operators/windowTime",
+        "dep": [
+            "tslib",
+            "./internal/Subject",
+            "./internal/scheduler/async",
+            "./internal/Subscriber",
+            "../util/isNumeric",
+            "../util/isScheduler"
+        ]
+    },
+    {
+        "name": "../internal/operators/windowToggle",
+        "dep": [
+            "tslib",
+            "./internal/Subject",
+            "./internal/Subscription",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/windowCount",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber",
+            "./internal/Subject"
+        ]
+    },
+    {
+        "name": "../internal/operators/window",
+        "dep": [
+            "tslib",
+            "./internal/Subject",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/toArray",
+        "dep": [
+            "./reduce"
+        ]
+    },
+    {
+        "name": "../internal/operators/timestamp",
+        "dep": [
+            "./internal/scheduler/async",
+            "../internal/operators/map"
+        ]
+    },
+    {
+        "name": "../internal/operators/timeoutWith",
+        "dep": [
+            "tslib",
+            "./internal/scheduler/async",
+            "../util/isDate",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/timeout",
+        "dep": [
+            "./internal/scheduler/async",
+            "./internal/util/TimeoutError",
+            "../internal/operators/timeoutWith",
+            "./internal/observable/throwError"
+        ]
+    },
+    {
+        "name": "../internal/operators/timeInterval",
+        "dep": [
+            "./internal/scheduler/async",
+            "../internal/operators/scan",
+            "./internal/observable/defer",
+            "../internal/operators/map"
+        ]
+    },
+    {
+        "name": "../internal/operators/throttle",
+        "dep": [
+            "tslib",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/throttleTime",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber",
+            "./internal/scheduler/async",
+            "../internal/operators/throttle"
+        ]
+    },
+    {
+        "name": "../internal/operators/tap",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber",
+            "./internal/util/noop",
+            "../util/isFunction"
+        ]
+    },
+    {
+        "name": "../internal/operators/takeWhile",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/takeUntil",
+        "dep": [
+            "tslib",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/switchMapTo",
+        "dep": [
+            "../internal/operators/switchMap"
+        ]
+    },
+    {
+        "name": "../internal/operators/switchMap",
+        "dep": [
+            "tslib",
+            "../OuterSubscriber",
+            "../InnerSubscriber",
+            "../util/subscribeToResult",
+            "../internal/operators/map",
+            "./internal/observable/from"
+        ]
+    },
+    {
+        "name": "../util/subscribeToArray",
+        "dep": []
+    },
+    {
+        "name": "../internal/operators/switchAll",
+        "dep": [
+            "../internal/operators/switchMap",
+            "./internal/util/identity"
+        ]
+    },
+    {
+        "name": "../internal/operators/subscribeOn",
+        "dep": [
+            "../observable/SubscribeOnObservable"
+        ]
+    },
+    {
+        "name": "../internal/operators/startWith",
+        "dep": [
+            "./fromArray",
+            "./scalar",
+            "./internal/observable/empty",
+            "./internal/observable/concat",
+            "../util/isScheduler"
+        ]
+    },
+    {
+        "name": "../internal/operators/skipWhile",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/skipUntil",
+        "dep": [
+            "tslib",
+            "../OuterSubscriber",
+            "../InnerSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/skipLast",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber",
+            "./internal/util/ArgumentOutOfRangeError"
+        ]
+    },
+    {
+        "name": "../internal/operators/skip",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/single",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber",
+            "./internal/util/EmptyError"
+        ]
+    },
+    {
+        "name": "../internal/operators/shareReplay",
+        "dep": [
+            "./internal/ReplaySubject"
+        ]
+    },
+    {
+        "name": "../internal/operators/share",
+        "dep": [
+            "../internal/operators/multicast",
+            "../operators/refCount",
+            "./internal/Subject"
+        ]
+    },
+    {
+        "name": "../internal/operators/sequenceEqual",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/scan",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/sampleTime",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber",
+            "./internal/scheduler/async"
+        ]
+    },
+    {
+        "name": "../internal/operators/sample",
+        "dep": [
+            "tslib",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/retryWhen",
+        "dep": [
+            "tslib",
+            "./internal/Subject",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/repeatWhen",
+        "dep": [
+            "tslib",
+            "./internal/Subject",
+            "../OuterSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/retry",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/repeat",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber",
+            "./internal/observable/empty"
+        ]
+    },
+    {
+        "name": "../util/subscribeToObservable",
+        "dep": [
+            "./internal/symbol/observable"
+        ]
+    },
+    {
+        "name": "./subscribeToIterable",
+        "dep": [
+            "../../internal/symbol/iterator"
+        ]
+    },
+    {
+        "name": "../internal/operators/race",
+        "dep": [
+            "./util/isArray",
+            "./internal/observable/race"
+        ]
+    },
+    {
+        "name": "../internal/operators/publishLast",
+        "dep": [
+            "./internal/AsyncSubject",
+            "../internal/operators/multicast"
+        ]
+    },
+    {
+        "name": "../internal/operators/publishReplay",
+        "dep": [
+            "./internal/ReplaySubject",
+            "../internal/operators/multicast"
+        ]
+    },
+    {
+        "name": "../internal/operators/publishBehavior",
+        "dep": [
+            "./internal/BehaviorSubject",
+            "../internal/operators/multicast"
+        ]
+    },
+    {
+        "name": "../internal/operators/publish",
+        "dep": [
+            "./internal/Subject",
+            "../internal/operators/multicast"
+        ]
+    },
+    {
+        "name": "../internal/operators/pluck",
+        "dep": [
+            "../internal/operators/map"
+        ]
+    },
+    {
+        "name": "../internal/operators/partition",
+        "dep": [
+            "../util/not",
+            "../internal/operators/filter"
+        ]
+    },
+    {
+        "name": "../internal/operators/pairwise",
+        "dep": [
+            "tslib",
+            "./internal/Subscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/onErrorResumeNext",
+        "dep": [
+            "tslib",
+            "./internal/observable/from",
+            "./util/isArray",
+            "../OuterSubscriber",
+            "../InnerSubscriber",
+            "../util/subscribeToResult"
+        ]
+    },
+    {
+        "name": "../internal/operators/multicast",
+        "dep": [
+            "./internal/observable/ConnectableObservable"
+        ]
+    },
+    {
+        "name": "../internal/operators/min",
+        "dep": [
+            "./reduce"
+        ]
+    },
+    {
+        "name": "./subscribeToPromise",
+        "dep": [
+            "./util/hostReportError"
+        ]
+    },
+    {
+        "name": "../internal/operators/mergeScan",
+        "dep": [
+            "tslib",
+            "../util/subscribeToResult",
+            "../OuterSubscriber",
+            "../InnerSubscriber"
+        ]
+    },
+    {
+        "name": "../internal/operators/mergeMapTo",
+        "dep": [
+            "./mergeMap"
+        ]
+    },
+    {
+        "name": "../util/Immediate",
+        "dep": []
+    },
+    {
+        "name": "./Action",
+        "dep": [
+            "tslib",
+            "./internal/Subscription"
+        ]
+    },
+    {
+        "name": "../observable/SubscribeOnObservable",
+        "dep": [
+            "tslib",
+            "./internal/Observable",
+            "./internal/scheduler/asap",
+            "../util/isNumeric"
+        ]
+    },
+    {
+        "name": "../util/not",
+        "dep": []
+    }
+]
